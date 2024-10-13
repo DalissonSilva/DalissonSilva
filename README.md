@@ -5,5 +5,5 @@
 - 📊 I specialize in ETL processes, data analysis, and dashboard development.
 - 🌱 I’m currently expanding my knowledge in Machine Learning and Data Science.
 - 🤝 I’m open to collaborating on data-driven projects and innovative solutions.
-- 📫 Reach me at: [Email](dalissonmuniz@outlook.com) or via [LinkedIn](https://linkedin.com/in/dalisson-silva-a01a591a7)
+- 📫 Reach me at: [Email](dalissonmuniz@outlook.com) or via [LinkedIn](https://linkedin.com/in/dalisson-silva-a01a591a7).
 - ⚡ Fun fact: I love finding patterns in data as much as I enjoy discovering new music tracks!
