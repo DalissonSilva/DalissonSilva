@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dálisson Silva
 
-- 💼 I'm a Data Developer at Unimed Maceió, focusing on data solutions.
+- 💼 I'm a Data Developer at Unimed Maceió, focusing on data and business solutions.
 - 🛠️ My tech stack includes Python, SQL, Airflow, Git, Power BI e Qlik Sense.
 - 📊 I possess skills in ETL processes, data analysis, and dashboard development.
 - 🌱 I’m currently expanding my knowledge in Machine Learning and Data Science.
