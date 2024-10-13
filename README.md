@@ -6,4 +6,4 @@
 - 🌱 I’m currently expanding my knowledge in Machine Learning and Data Science.
 - 🤝 I’m open to collaborating on data-driven projects and innovative solutions.
 - 📫 Reach me at: [Email](dalissonmuniz@outlook.com) or via [LinkedIn](https://linkedin.com/in/dalisson-silva-a01a591a7).
-- ⚡ Fun fact: I'm passionate about finding patterns in data as much as I enjoy discovering new music!
+- ⚡ Fun fact: I am fascinated by uncovering hidden stories in numbers and transforming raw data into valuable insights that drive strategic decisions.
