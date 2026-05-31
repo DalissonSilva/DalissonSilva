@@ -26,24 +26,16 @@
 
 ### `// quem sou eu`
 
+<div align="center">
+
+### `// quem sou eu`
+
 </div>
 
-```python
-dalisson = {
-    "nome"     : "Dálisson Silva",
-    "cargo"    : "Full-Cycle Data Professional",
-    "empresa"  : "Unimed Maceió",
-    "cidade"   : "Maceió, Alagoas — Brasil",
-    "foco"     : [
-                    "Engenharia de Dados",
-                    "Arquitetura de Dados",
-                    "Governança & Qualidade",
-                    "Analytics & BI",
-                    "Cultura de Dados"
-                 ],
-    "missao"   : "Transformar dados brutos em decisões estratégicas"
-}
-```
+> Profissional de dados **Full-Cycle** com atuação em todo o ciclo de vida da informação — da engenharia à cultura de dados.
+> Trabalho na **Unimed Maceió** liderando iniciativas que transformam dados brutos em decisões estratégicas para o negócio.
+
+📍 Maceió, Alagoas — Brasil &nbsp;|&nbsp; 🏥 Unimed Maceió &nbsp;|&nbsp; 🎯 Full-Cycle Data Professional
 
 ---
 
