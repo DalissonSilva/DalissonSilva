@@ -25,7 +25,7 @@
 
 <div align="center">
 
-### `// quem sou eu`
+### `quem sou eu`
 
 </div>
 
