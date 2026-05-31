@@ -22,9 +22,6 @@
 ---
 
 <!-- SOBRE -->
-<div align="center">
-
-### `// quem sou eu`
 
 <div align="center">
 
