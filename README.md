@@ -39,7 +39,7 @@
 <!-- PILARES -->
 <div align="center">
 
-### `// pilares de atuação`
+### `Pilares de atuação`
 
 </div>
 
@@ -162,7 +162,7 @@ colaboracao:    Ponte entre TI e negócio · Comunicação de dados
 <!-- STACK VISUAL -->
 <div align="center">
 
-### `// stack completa`
+### `Stack completa`
 
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white)
@@ -183,7 +183,7 @@ colaboracao:    Ponte entre TI e negócio · Comunicação de dados
 <!-- FLUXO DE DADOS -->
 <div align="center">
 
-### `// fluxo medallion`
+### `Fluxo medalhão`
 
 ```
 ┌─────────────┐     ┌─────────────┐     ┌─────────────┐     ┌─────────────┐
@@ -206,7 +206,7 @@ colaboracao:    Ponte entre TI e negócio · Comunicação de dados
 <!-- FOOTER -->
 <div align="center">
 
-### `// vamos conversar?`
+### `Vamos conversar?`
 
 <br/>
 
