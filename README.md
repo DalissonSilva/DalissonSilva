@@ -30,7 +30,7 @@
 </div>
 
 > Profissional de dados **Full-Cycle** com atuação em todo o ciclo de vida da informação — da engenharia à cultura de dados.
-> Trabalho na **Unimed Maceió** liderando iniciativas que transformam dados brutos em decisões estratégicas para o negócio.
+> Trabalho na **Unimed Maceió** com iniciativas que transformam dados brutos em decisões estratégicas para o negócio.
 
 📍 Maceió, Alagoas — Brasil &nbsp;|&nbsp; 🏥 Unimed Maceió &nbsp;|&nbsp; 🎯 Full-Cycle Data Professional
 
