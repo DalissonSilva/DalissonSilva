@@ -126,6 +126,8 @@ catalogo:
 ferramentas:
   - Qlik Sense
   - QlikView
+  - Power BI
+  - Streamlit
 
 entregas:
   - Dashboards interativos
