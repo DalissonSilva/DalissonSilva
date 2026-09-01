@@ -2,7 +2,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/main/light.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/main/dark.svg">
   <img alt="Dálisson Silva — Engenheiro de Dados" src="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/main/dark.svg">
 </picture>
 
@@ -27,8 +27,8 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/output/github-snake.svg" />
-  <img alt="Snake devorando minhas contribuições" src="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/output/github-snake-dark.svg" />
+  <img alt="Snake devorando minhas contribuições" src="https://raw.githubusercontent.com/DalissonSilva/DalissonSilva/output/github-snake-dark.svg" />
 </picture>
 
 </div>
