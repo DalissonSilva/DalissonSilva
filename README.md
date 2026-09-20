@@ -33,7 +33,7 @@
 
 </div>
 
----
+<!-- ---
 
 ### `quem sou eu`
 
@@ -182,7 +182,7 @@ O banco de produção é tocado **apenas** pela camada Bronze. Nenhuma ferrament
 
 </div>
 
----
+--- -->
 
 ### `vamos conversar`
 
