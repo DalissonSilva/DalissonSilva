@@ -42,7 +42,7 @@
 </a>
 &nbsp;&nbsp;
 <a href="https://DalissonSilva.github.io">
-<img src="https://img.shields.io/badge/Portf%C3%B3lio-0A0A0F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A0A0F" alt="Portfólio" />
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-A78BFA?style=for-the-badge&logo=github&logoColor=0A0A0F&labelColor=A78BFA" alt="Portfólio" />
 </a>
 &nbsp;&nbsp;
 <a href="mailto:dalissonmuniz@outlook.com">
